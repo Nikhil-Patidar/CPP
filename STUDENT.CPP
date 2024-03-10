@@ -43,4 +43,4 @@ void main()
   S2.showdata();
   cout<<"\nthe number of  funtion call is : "<<Student::counting();
   getch();
-}
+}\\
