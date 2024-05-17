@@ -12,5 +12,5 @@ void main()
  area=3.14*r*r;
  printf("The area of circle is %f",area);
  getch();
-}
+}//
 
