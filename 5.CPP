@@ -14,4 +14,4 @@ void main()
  b=c;
  printf("the value of a = %d\nthe value of b = %d",a,b);
  getch();
-}
+}//
