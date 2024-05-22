@@ -13,4 +13,4 @@ void main()
  printf("The area of circle is %f",area);
  getch();
 }
-///
+
