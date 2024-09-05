@@ -16,3 +16,4 @@ void main()
  printf("a = %d\nb = %d",a,b);
  getch();
 }
+
