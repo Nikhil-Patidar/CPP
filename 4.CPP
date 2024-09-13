@@ -15,4 +15,5 @@ void main()
  a=a-b;
  printf("a = %d\nb = %d",a,b);
  getch();
-}
+}
+
